@@ -50,6 +50,14 @@ The dashboard provides insights into:
 - Monitor average customer ratings and sales trends.
 - Support data-driven decision making.
 
+## 📸 Dashboard Screenshot
+
+The dashboard provides an interactive view of Swiggy Instamart sales performance with key business metrics, sales trends, and category-wise insights.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Keshavv15/Swiggy-Instamart-sales-dashboard/main/swiggy%20instamart%20ss.png" alt="Swiggy Instamart Sales Dashboard" width="1000"/>
+</p>
+
 ## 👨‍💻 Author
 
 **Keshav Sharma**
